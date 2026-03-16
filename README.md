@@ -1,5 +1,5 @@
 # ¡Hola! Soy José Gabriel 👋
-### 🛡️ Protegiendo el entorno digital con la experiencia de quien sabe construir desde cero.
+### 🛡️ Mi visión profesional: *“Proteger el futuro digital con la experiencia de toda una vida.”*
 
 Soy un apasionado de la tecnología con una trayectoria resiliente y poco convencional. Mi viaje comenzó en los años 90 entre líneas de comandos y el montaje de redes desde cero. Hoy, tras forjar una ética de trabajo inquebrantable liderando equipos en sectores de alta exigencia, he regresado a mi verdadera vocación: la **Administración de Sistemas (ASIR)** y la **Ciberseguridad**.
 
