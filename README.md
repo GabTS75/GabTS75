@@ -33,8 +33,7 @@ Siempre estoy abierto a charlar sobre tecnología, ciberseguridad o nuevas oport
 * 🌐 **Portfolio:** [Conoce más sobre mí](https://) (en construcción)
 * ✉️ **Email:** [Escríbeme un correo](mailto:jgabriel.ts@gmail.com)
 
-> *"La tecnología evoluciona rápido, pero la perseverancia, la actitud junto a la responsabilidad y el compromiso...
-> ... nunca quedan obsoletos."* ✨
+> *"La tecnología evoluciona rápido, pero la perseverancia, la actitud positiva junto a la responsabilidad y el compromiso... nunca quedan obsoletos."* ✨
 <!--
 **GabTS75/GabTS75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
