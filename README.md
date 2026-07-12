@@ -1,6 +1,8 @@
 # ¡Hola! Soy Gabriel Ternero 👋
 
-## 🛡️ **Visión profesional:** *"Aportar experiencia real aplicada a la tecnología de hoy y con mucho sentido común."*
+## 🛡️ Visión profesional:
+
+### *"Aportar experiencia real aplicada a la tecnología de hoy, con responsabilidad y sentido común."*
 
 Empecé en esto de la informática a principios de los 90, en la época del MS-DOS, cuando montar redes era tirar cable y los ordenadores se configuraban uno a uno desde cero. Incluso llegué a emprender con mi propio negocio de tecnología en Perú antes de llegar a España.
 
