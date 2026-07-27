@@ -33,7 +33,7 @@ Aquí, la vida me llevó por otros caminos. Trabajé muy duro durante casi 18 a�
 Siempre estoy abierto a charlar sobre tecnología, ciberseguridad o nuevas oportunidades.
 
 * 💼 **LinkedIn:** [Visita mi perfil](https://www.linkedin.com/) (en construcción)
-* 🌐 **Portfolio:** [Conoce más sobre mí](https://) (en construcción)
+* 🌐 **Portfolio:** [Conoce más sobre mí](https://gabts75.github.io/gabrielternero/) (en construcción)
 * ✉️ **Email:** [Escríbeme un correo](mailto:jgabriel.ts@gmail.com)
 
 > *"La tecnología evoluciona rápido, pero la perseverancia y la actitud positiva, junto a la responsabilidad y el compromiso, nunca quedan obsoletos."* ✨
