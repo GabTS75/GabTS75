@@ -37,6 +37,9 @@ Siempre estoy abierto a charlar sobre tecnología, ciberseguridad o nuevas oport
 * ✉️ **Email:** [Escríbeme un correo](mailto:jgabriel.ts@gmail.com)
 
 > *"La tecnología evoluciona rápido, pero la perseverancia y la actitud positiva, junto a la responsabilidad y el compromiso, nunca quedan obsoletos."* ✨
+
+---
+![](https://komarev.com/ghpvc/?username=GabTS75&color=00f0ff&style=for-the-badge&label=SYSTEM_ACCESS_LOGS)
 <!--
 **GabTS75/GabTS75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
