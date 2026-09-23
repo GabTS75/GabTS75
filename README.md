@@ -39,7 +39,7 @@ Siempre estoy abierto a charlar sobre tecnología, ciberseguridad o nuevas oport
 > *"La tecnología evoluciona rápido, pero la perseverancia y la actitud positiva, junto a la responsabilidad y el compromiso, nunca quedan obsoletos."* ✨
 
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGabTS75&count_bg=%23101827&title_bg=%23000000&icon=shield.svg&icon_color=%2300FF00&title=security_audit&edge_flat=false)](https://hits.seeyoufarm.com)
+![](https://profile-counter.glitch.me/GabTS75/count.svg)
 <!--
 **GabTS75/GabTS75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
