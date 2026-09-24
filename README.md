@@ -36,10 +36,10 @@ Siempre estoy abierto a charlar sobre tecnología, ciberseguridad o nuevas oport
 * 🌐 **Portfolio:** [Conoce más sobre mí](https://gabts75.github.io/gabrielternero/) (en construcción)
 * ✉️ **Email:** [Escríbeme un correo](mailto:jgabriel.ts@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=GabTS75&color=00f0ff&style=for-the-badge&label=SYSTEM_ACCESS_LOGS)
+
 > *"La tecnología evoluciona rápido, pero la perseverancia y la actitud positiva, junto a la responsabilidad y el compromiso, nunca quedan obsoletos."* ✨
 
----
-![](https://profile-counter.glitch.me/GabTS75/count.svg)
 <!--
 **GabTS75/GabTS75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
