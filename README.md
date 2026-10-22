@@ -4,7 +4,7 @@
 
 Empecé en esto de la informática a principios de los 90, en la época del MS-DOS, cuando montar redes era tirar cable y los ordenadores se configuraban uno a uno desde cero. Incluso llegué a emprender con mi propio negocio de tecnología en Perú antes de llegar a España.
 
-Aquí, la vida me llevó por otros caminos. Trabajé muy duro durante casi 18 años en el sector servicios y la hostelería, una etapa muy exigente que me enseñó a **gestionar equipos, resolver problemas bajo presión** y ganarme la confianza de mis compañeros y superiores siendo serio y profesional. Pero la espina de la tecnología seguía ahí. Por eso decidí dar un giro a mi vida, volver a lo que de verdad me apasiona. En estos 2 años me he actualizado a fondo en **Ciberseguridad e Inteligencia Artificial** porque el sector ha cambiado muchísimo, pero mis ganas de aprender siguen intactas.
+Aquí, la vida me llevó por otros caminos. Trabajé muy duro durante casi 18 años en el sector servicios y la hostelería, una etapa muy exigente que me enseñó a **gestionar equipos, resolver problemas bajo presión** y ganarme la confianza de mis compañeros y superiores siendo serio y profesional. Pero la espina de la tecnología seguía ahí. Por eso decidí dar un giro a mi vida, volver a lo que de verdad me apasiona. En estos últimos 2 años me he actualizado a fondo en **Ciberseguridad e Inteligencia Artificial** porque el sector ha cambiado muchísimo, pero mis ganas de aprender siguen intactas.
 
 **¿Qué aporto a un equipo?** Una combinación que no se encuentra fácilmente: los conocimientos técnicos frescos de alguien que se acaba de actualizar, sumados a la madurez, el sentido común y la responsabilidad de quien ya conoce bien el mundo laboral real. Mi objetivo es aportar valor desde el primer día ayudando a **proteger sistemas** y hacer que el entorno digital sea **un lugar más seguro**.
 
@@ -32,7 +32,7 @@ Aquí, la vida me llevó por otros caminos. Trabajé muy duro durante casi 18 a�
 
 Siempre estoy abierto a charlar sobre tecnología, ciberseguridad o nuevas oportunidades.
 
-* 🎓 **Currículum:** [Revisa mi CV](https://github.com/GabTS75/vectorsec-project/tree/main/modulo7-empleabilidad-portfolio/cv) 👈
+* 🎓 **Currículum:** [Revisa mi CV](https://github.com/GabTS75/vectorsec-project/blob/main/modulo7-empleabilidad-portfolio/cv/CV-Gabriel-Ternero.pdf) 👈
 * 💼 **LinkedIn:** [Visita mi perfil](https://www.linkedin.com/in/jgabrielts/) 👈
 * 🌐 **Portfolio:** [Conoce más sobre mí](https://gabts75.github.io/gabrielternero/) 👈
 * ✉️ **Email:** [Escríbeme un correo](mailto:jgabriel.ts@gmail.com) 👈
