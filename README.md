@@ -32,6 +32,7 @@ Aquí, la vida me llevó por otros caminos. Trabajé muy duro durante casi 18 a�
 
 Siempre estoy abierto a charlar sobre tecnología, ciberseguridad o nuevas oportunidades.
 
+* 🎓 **Currículum:** [Revisa mi CV](https://github.com/GabTS75/vectorsec-project/tree/main/modulo7-empleabilidad-portfolio/cv) 👈
 * 💼 **LinkedIn:** [Visita mi perfil](https://www.linkedin.com/in/jgabrielts/) 👈
 * 🌐 **Portfolio:** [Conoce más sobre mí](https://gabts75.github.io/gabrielternero/) 👈
 * ✉️ **Email:** [Escríbeme un correo](mailto:jgabriel.ts@gmail.com) 👈
