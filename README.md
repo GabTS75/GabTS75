@@ -2,11 +2,11 @@
 
 ### 🛡️ Visión profesional: *"Aportar experiencia real aplicada a la tecnología de hoy, con responsabilidad y sentido común."*
 
-Empecé en esto de la informática a principios de los 90, en la época del MS-DOS, cuando montar redes era tirar cable y los ordenadores se configuraban uno a uno desde cero. Incluso llegué a emprender con mi propio negocio de tecnología en Perú antes de llegar a España.
+Empecé en la informática a principios de los 90, en plena época del MS-DOS, cuando montar una red suponía tirar cable y configurar cada ordenador desde cero. Incluso llegué a emprender con mi propio negocio tecnológico en Perú, antes de venir a España.
 
-Aquí, la vida me llevó por otros caminos. Trabajé muy duro durante casi 18 años en el sector servicios y la hostelería, una etapa muy exigente que me enseñó a **gestionar equipos, resolver problemas bajo presión** y ganarme la confianza de mis compañeros y superiores siendo serio y profesional. Pero la espina de la tecnología seguía ahí. Por eso decidí dar un giro a mi vida, volver a lo que de verdad me apasiona. En estos últimos 2 años me he actualizado a fondo en **Ciberseguridad e Inteligencia Artificial** porque el sector ha cambiado muchísimo, pero mis ganas de aprender siguen intactas.
+Aquí, la vida me llevó por otros caminos. Durante casi 18 años trabajé en hostelería y servicios, una etapa exigente que me enseñó a **gestionar equipos, resolver problemas bajo presión y asumir responsabilidades**. Sin embargo, la tecnología siempre siguió ahí, como una asignatura pendiente. Por eso decidí volver a mi verdadera pasión y, durante los últimos dos años, me he actualizado en **Ciberseguridad e Inteligencia Artificial**, con muchas ganas de seguir aprendiendo.
 
-**¿Qué aporto a un equipo?** Una combinación que no se encuentra fácilmente: los conocimientos técnicos frescos de alguien que se acaba de actualizar, sumados a la madurez, el sentido común y la responsabilidad de quien ya conoce bien el mundo laboral real. Mi objetivo es aportar valor desde el primer día ayudando a **proteger sistemas** y hacer que el entorno digital sea **un lugar más seguro**.
+**¿Qué puedo aportar a un equipo?** Experiencia real en el mundo laboral, madurez y compromiso, junto con conocimientos técnicos renovados. Creo que esa combinación tiene mucho valor. Mi objetivo es aportar desde el primer día, ayudar a **proteger sistemas** y contribuir a que los entornos digitales sean **más seguros y fiables**.
 
 ---
 
